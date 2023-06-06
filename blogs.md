@@ -3,7 +3,6 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-
 ## My Blogs
 
 ### 2023
@@ -32,6 +31,6 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %} 
+{% include disqus.html %}
 
 <br>
